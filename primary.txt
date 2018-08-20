@@ -1,0 +1,4 @@
+attr handle: 0x0001, end grp handle: 0x0007 uuid: 00001800-0000-1000-8000-00805f9b34fb
+attr handle: 0x0008, end grp handle: 0x000b uuid: 00001801-0000-1000-8000-00805f9b34fb
+attr handle: 0x000c, end grp handle: 0x0016 uuid: 0000fee7-0000-1000-8000-00805f9b34fb
+attr handle: 0x0017, end grp handle: 0xffff uuid: c3e6fea0-e966-1000-8000-be99c223df6a
